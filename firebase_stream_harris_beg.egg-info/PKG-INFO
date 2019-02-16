@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: firebase-stream-harris-beg
+Version: 0.0.1
+Summary: A Python library utilizing Firebase-Admin to create live requests
+Home-page: UNKNOWN
+Author: Harris Beg
+Author-email: harris@harrisbeg.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown

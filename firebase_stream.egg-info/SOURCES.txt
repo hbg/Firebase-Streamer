@@ -1,0 +1,8 @@
+README.md
+setup.py
+FirebaseStream/FirebaseStream.py
+FirebaseStream/__init__.py
+firebase_stream.egg-info/PKG-INFO
+firebase_stream.egg-info/SOURCES.txt
+firebase_stream.egg-info/dependency_links.txt
+firebase_stream.egg-info/top_level.txt

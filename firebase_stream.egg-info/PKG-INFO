@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: firebase-stream
+Version: 0.0.2
+Summary: A Python library utilizing Firebase-Admin to create live requests
+Home-page: UNKNOWN
+Author: Harris Beg
+Author-email: harris@harrisbeg.com
+License: UNKNOWN
+Description: ## Firebase Stream Handler
+        
+        This Python package was designed to provide an easy-to-use wrapper for the firebase-admin API in order to retrieve live changes to the Firebase DB.
+        
+        * Use Firebase-Admin
+        * Formats requests with a parameter (DEBUG) to display live output
+        * More features to be added later on
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown

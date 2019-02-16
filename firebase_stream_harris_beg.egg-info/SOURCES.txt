@@ -1,0 +1,8 @@
+README.md
+setup.py
+FirebaseStream/FirebaseStream.py
+FirebaseStream/__init__.py
+firebase_stream_harris_beg.egg-info/PKG-INFO
+firebase_stream_harris_beg.egg-info/SOURCES.txt
+firebase_stream_harris_beg.egg-info/dependency_links.txt
+firebase_stream_harris_beg.egg-info/top_level.txt
